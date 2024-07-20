@@ -1,0 +1,76 @@
+.opt{
+    display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+.btnB {
+box-shadow: 8px 8px 24px 0px rgba(0, 22, 255, 1);
+cursor: pointer;
+width: 80px;
+height: 60px;
+border: none;
+border-radius: 8px;
+background-color: aqua;
+color: blueviolet;
+margin-right: 20px;
+text-align: center;
+&:hover, &:focus{
+background-color: rgb(11, 0, 75);
+box-shadow: 8px 8px 24px 0px red;
+color: red;
+}
+}
+
+.btnN {
+box-shadow: 8px 8px 24px 0px rgba(0, 22, 255, 1);
+cursor: pointer;
+width: 80px;
+height: 60px;
+border: none;
+border-radius: 8px;
+background-color: aqua;
+color: blueviolet;
+margin-right: 20px;
+text-align: center;
+&:hover, &:focus{
+background-color: rgb(11, 0, 75);
+box-shadow: 8px 8px 24px 0px grey;
+color: gray;
+}
+}
+
+.btnG {
+box-shadow: 8px 8px 24px 0px rgba(0, 22, 255, 1);
+cursor: pointer;
+width: 80px;
+height: 60px;
+border: none;
+border-radius: 8px;
+background-color: aqua;
+color: blueviolet;
+margin-right: 20px;
+text-align: center;
+&:hover, &:focus{
+background-color: rgb(11, 0, 75);
+box-shadow: 8px 8px 24px 0px green;
+color: green;
+}
+}
+
+.btnR {
+box-shadow: 8px 8px 24px 0px blue;
+cursor: pointer;
+width: 80px;
+height: 60px;
+border: none;
+border-radius: 8px;
+background-color: aqua;
+color: blueviolet;
+margin-right: 20px;
+&:hover, &:focus{
+background-color: aquamarine;
+box-shadow: 8px 8px 24px 0px orange;
+color: black;
+}
+}

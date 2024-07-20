@@ -1,0 +1,15 @@
+.G{
+    text-shadow: 4px 4px 6px green;
+    }
+.N{
+    text-shadow: 4px 4px 6px grey;
+    }
+.B{
+    text-shadow: 5px 5px 7px red;
+    }
+.feed {
+    display: flex;
+    flex-direction: column;
+    font-size: medium;
+    font-weight: 600;
+  }
