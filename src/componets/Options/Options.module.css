@@ -11,8 +11,8 @@ width: 80px;
 height: 60px;
 border: none;
 border-radius: 8px;
-background-color: aqua;
-color: blueviolet;
+background-color: red;
+color: whitesmoke;
 margin-right: 20px;
 text-align: center;
 &:hover, &:focus{
@@ -29,8 +29,8 @@ width: 80px;
 height: 60px;
 border: none;
 border-radius: 8px;
-background-color: aqua;
-color: blueviolet;
+background-color: gray;
+color: whitesmoke;
 margin-right: 20px;
 text-align: center;
 &:hover, &:focus{
@@ -47,8 +47,8 @@ width: 80px;
 height: 60px;
 border: none;
 border-radius: 8px;
-background-color: aqua;
-color: blueviolet;
+background-color: green;
+color: whitesmoke;
 margin-right: 20px;
 text-align: center;
 &:hover, &:focus{
@@ -65,11 +65,11 @@ width: 80px;
 height: 60px;
 border: none;
 border-radius: 8px;
-background-color: aqua;
-color: blueviolet;
+background-color: orange;
+color: whitesmoke;
 margin-right: 20px;
 &:hover, &:focus{
-background-color: aquamarine;
+background-color: olive;
 box-shadow: 8px 8px 24px 0px orange;
 color: black;
 }
